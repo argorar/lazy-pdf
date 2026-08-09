@@ -1,0 +1,57 @@
+{
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.53333,1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode-specializations" : [
+            {
+              "value" : "normal"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "normal"
+            }
+          ],
+          "fill-specializations" : [
+            {
+              "value" : "automatic"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "automatic"
+            }
+          ],
+          "glass" : true,
+          "hidden" : false,
+          "image-name" : "vecteezy_outline-icons-notebook-icon-documents-icon-best-used-for_10042706.svg",
+          "name" : "vecteezy_outline-icons-notebook-icon-documents-icon-best-used-for_10042706",
+          "opacity" : 0.45,
+          "position" : {
+            "scale" : 1.52,
+            "translation-in-points" : [
+              828.0625,
+              -756.359375
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
