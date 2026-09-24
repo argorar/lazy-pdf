@@ -2,6 +2,8 @@
 
 Aplicación nativa para macOS que une varios archivos PDF en un único documento. También permite abrir PDFs protegidos con contraseña y exportar una copia unificada sin bloqueo.
 
+![interface](interface.png)
+
 ## Funciones
 
 - Añadir varios PDFs desde el selector de archivos o arrastrándolos a la ventana.
